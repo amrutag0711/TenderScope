@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/tenders.sqlite
+.streamlit/secrets.toml
+.env
